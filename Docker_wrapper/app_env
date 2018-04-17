@@ -1,0 +1,2 @@
+export DB_USER=$( vaultenv postgres/user )
+export DB_PASS=$( vaultenv postgres/password )
